@@ -2,6 +2,6 @@
 
 ## Sección 1
 
-Esta es la primer línea original de texto, y termina aquí.
+Esta es la primer línea original de texto, ya no termina aquí; ahora termina aquí.
 
 Además añadimos esta línea
