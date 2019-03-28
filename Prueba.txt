@@ -2,6 +2,10 @@
 
 ## Sección 1
 
-Esta es la primer línea original de texto, ya no termina aquí; ahora termina aquí.
+Esta es la primer línea de texto de la rama1, ya no termina aquí; ahora termina aquí.
 
 Además añadimos esta línea
+
+##Sección 2. Introducción
+
+Ahora la introducción irá aquí. no me lo está guardando y le volvía a escribir. Lueno no apareció y le di refresacar a la pantalla del GIT
